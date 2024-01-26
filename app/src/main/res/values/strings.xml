@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">AlbumArtApp</string>
+
+    <string name="pic_1">Picture One</string>
+    <string name="pic_1_desc">In front of Science Complex</string>
+
+    <string name="pic_2">Picture Two</string>
+    <string name="pic_2_desc">Portrait (Flag Background)</string>
+
+    <string name="pic_3">Picture Three</string>
+    <string name="pic_3_desc">Portrait2 (Illuminated Style)</string>
+
+    <string name="pic_4">Picture Four</string>
+    <string name="pic_4_desc">Portrait3 (Graduated Decors) </string>
+
+    <string name="pic_5">Picture Five</string>
+    <string name="pic_5_desc">Impressed Graduated Decorated</string>
+
+    <string name="pic_6">Picture Six</string>
+    <string name="pic_6_desc">Angled Cornered Graduation Luminax</string>
+
+    <string name="pic_7">Picture Seven</string>
+    <string name="pic_7_desc">Full With decorated Graduation Gown</string>
+
+    <string name="pic_8">Picture Eight</string>
+    <string name="pic_8_desc">Full Sided decorated Graduation Gown</string>
+
+    <string name="pic_9">Picture Nine</string>
+    <string name="pic_9_desc">Full With H.O.D</string>
+
+    <string name="pic_10">Picture Ten</string>
+    <string name="pic_10_desc">Full-Well Lit With H.O.D</string>
+
+    <string name="pic_11">Picture Eleven</string>
+    <string name="pic_11_desc">H.O.D Half Picture</string>
+
+    <string name="pic_12">Picture Twelve</string>
+    <string name="pic_12_desc">With Friends, Combo</string>
+
+    <string name="pic_13">Picture Thirteen</string>
+    <string name="pic_13_desc">Griphins Changilwa</string>
+
+    <string name="pic_14">Picture Fourteen</string>
+    <string name="pic_14_desc">Rodgers Muthomi</string>
+
+    <string name="pic_15">Picture Fifteen</string>
+    <string name="pic_15_desc">MUTRHSF BROTHERS COMBO</string>
+
+    <string name="pic_16">Picture Sixteen</string>
+    <string name="pic_16_desc">Rodgers and Griphins </string>
+    <string name="pic_17">Picture Seventeen</string>
+    <string name="pic_17_desc">At the Highway Full suite</string>
+    <string name="pic_18">M.U.T GRADUATES</string>
+    <string name="pic_18_desc">Designed By Steve the IT Guy</string>
+
+
+
+
+
+
+    <string name="top_app_bar_title">Graduation Album</string>
+
+
+</resources>
